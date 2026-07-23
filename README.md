@@ -49,38 +49,4 @@ Form Validation
 Exception Handling
 Installation
 
-Clone the repository:
 
-git clone https://github.com/your-username/leave-management-system.git
-Import the project into Eclipse/STS.
-Configure MySQL:
-Create a database named leave_management_system.
-Update the database credentials in hibernate.cfg.xml.
-
-Build the project using Maven:
-
-mvn clean install
-Deploy the application on Apache Tomcat.
-
-Open the browser and visit:
-
-http://localhost:8080/leave-management-system
-Future Enhancements
-Email Notifications
-PDF Report Generation
-REST API Integration
-Calendar View for Leaves
-Role-Based Access Control (RBAC)
-Dashboard Charts and Analytics
-Screenshots
-
-Add screenshots of:
-
-Login Page
-Employee Dashboard
-Leave Application Form
-Admin Dashboard
-Leave Approval Page
-Contributing
-
-Contributions are welcome. Please open an issue or submit a pull request for any improvements or bug fixes.
