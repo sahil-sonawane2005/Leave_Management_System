@@ -1,7 +1,7 @@
-Leave Management System
+Leave Management Syste
 Overview
 
-The Leave Management System is a Java-based web application designed to streamline the process of managing employee leave requests within an organization. It provides role-based access for employees and administrators, enabling efficient leave application, approval workflows, and record management.
+The Leave Management System is a Java-based web application designed to streamline the process of managing employee leave requests within an organization. It provides role-based access for employees and administrators, enabling efficient leave application, approval workflows and record management.
 
 Features
 Employee Module
